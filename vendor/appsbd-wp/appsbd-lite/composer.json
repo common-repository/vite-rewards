@@ -1,0 +1,22 @@
+{
+    "name": "appsbd-wp/appsbd-lite",
+    "description": "Its the lite framework for wordpress plugin",
+    "type": "framework",
+    "autoload": {
+        "files": [
+            "appsbd_lite/v2/core/class-kernel-lite.php",
+            "appsbd_lite/v2/helper/base-helper.php"
+        ],
+        "psr-4": {
+            "Appsbd_Lite\\": "appsbd_lite/"
+        }
+    },
+    "authors": [
+        {
+            "name": "appsbd.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    }
+}

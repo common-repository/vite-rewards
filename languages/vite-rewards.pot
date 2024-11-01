@@ -1,0 +1,314 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vite-coupon\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: ;__;_e;_ee;___;add_error;add_info;SetTitle;AddInfo;AddError;SetSubtitle;___;AddModel;AddModelNonSearchable\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+"X-Poedit-SearchPathExcluded-2: dbscript\n"
+"X-Poedit-SearchPathExcluded-3: languages\n"
+"X-Poedit-SearchPathExcluded-4: tmp\n"
+"X-Poedit-SearchPathExcluded-5: node_modules\n"
+"X-Poedit-SearchPathExcluded-6: release\n"
+"X-Poedit-SearchPathExcluded-7: logs\n"
+"X-Poedit-SearchPathExcluded-8: template/client\n"
+"X-Poedit-SearchPathExcluded-9: template/main\n"
+"X-Poedit-SearchPathExcluded-10: dev_files\n"
+"X-Poedit-SearchPathExcluded-11: adminpanel\n"
+"X-Poedit-SearchPathExcluded-12: *.js\n"
+
+msgid "Missing dependency"
+msgstr ""
+
+msgid "It requires woocommerce, please install woocommerce first"
+msgstr ""
+
+msgid "Reward Points Rules"
+msgstr ""
+
+msgid "Reward Points Table"
+msgstr ""
+
+msgid "Badge List"
+msgstr ""
+
+msgid "Email Template"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Reward Rules"
+msgstr ""
+
+msgid "Points Table"
+msgstr ""
+
+msgid "Badges"
+msgstr ""
+
+msgid "Loading Reward Rules"
+msgstr ""
+
+msgid "Loading Points Table List"
+msgstr ""
+
+msgid "Loading Badges"
+msgstr ""
+
+msgid "Loading Email Template List"
+msgstr ""
+
+msgid "Loading Settings"
+msgstr ""
+
+msgid "Configure"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Current Points"
+msgstr ""
+
+msgid "Points Value"
+msgstr ""
+
+msgid "Update points"
+msgstr ""
+
+msgid "Enter Points"
+msgstr ""
+
+msgid "Remark"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Add Badge"
+msgstr ""
+
+msgid "Update Badge"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Badge Name"
+msgstr ""
+
+msgid "Enter Badge Name"
+msgstr ""
+
+msgid "Threshold Points"
+msgstr ""
+
+msgid "Welcome Points"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Toggle this to show overall accumulated points on My Account page."
+msgstr ""
+
+msgid "Show Total Earning Points"
+msgstr ""
+
+msgid "Toggle this to show assigned user badges on My Account page."
+msgstr ""
+
+msgid "Show User Badges"
+msgstr ""
+
+msgid "Toggle this to enable this settings."
+msgstr ""
+
+msgid "Enable Badge"
+msgstr ""
+
+msgid "Badge Settings"
+msgstr ""
+
+msgid "Enable Points Notification"
+msgstr ""
+
+msgid "Enable Email Point Notification"
+msgstr ""
+
+msgid "Points"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Per Currency Points Conversion"
+msgstr ""
+
+msgid "Allow per currency points conversion."
+msgstr ""
+
+msgid "Basic Settings"
+msgstr ""
+
+msgid "Email Body"
+msgstr ""
+
+msgid "Edit Email Template"
+msgstr ""
+
+msgid "Email Subject"
+msgstr ""
+
+msgid "Enable Currency Points Conversion"
+msgstr ""
+
+msgid "Invalid request"
+msgstr ""
+
+msgid "No Email Template found with this key"
+msgstr ""
+
+msgid "Invalid update request"
+msgstr ""
+
+msgid "Successfully updated"
+msgstr ""
+
+msgid "Successfully status changed"
+msgstr ""
+
+msgid "Failed to update"
+msgstr ""
+
+msgid "Successfully added"
+msgstr ""
+
+msgid "No Badge found with this id"
+msgstr ""
+
+msgid "invalid update request"
+msgstr ""
+
+msgid "Invalid delete request"
+msgstr ""
+
+msgid "Successfully Deleted"
+msgstr ""
+
+msgid "Delete failed"
+msgstr ""
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Invalid request param"
+msgstr ""
+
+msgid "View Profile"
+msgstr ""
+
+msgid "Invalid Request"
+msgstr ""
+
+msgid "No log found with this id"
+msgstr ""
+
+msgid "Successfully updated order rule"
+msgstr ""
+
+msgid "Point Multiply with Subtotal"
+msgstr ""
+
+msgid "Point Multiply with Order Total"
+msgstr ""
+
+msgid "Fixed Point"
+msgstr ""
+
+msgid "Test 1"
+msgstr ""
+
+msgid "Test 2"
+msgstr ""
+
+msgid "Test 3"
+msgstr ""
+
+msgid "Drop 1"
+msgstr ""
+
+msgid "Drop 2"
+msgstr ""
+
+msgid "Drop 3"
+msgstr ""
+
+msgid "Drop 4"
+msgstr ""
+
+#, php-format
+msgid "%s should be digit"
+msgstr ""
+
+#, php-format
+msgid "%s should be numeric"
+msgstr ""
+
+#, php-format
+msgid " %s should be less than %s"
+msgstr ""
+
+#, php-format
+msgid "%s should be a valid email address"
+msgstr ""
+
+msgid " should be hexadecimal"
+msgstr ""
+
+#, php-format
+msgid " %s are required"
+msgstr ""
+
+#, php-format
+msgid " %s is required"
+msgstr ""
+
+msgid "E004"
+msgstr ""
+
+msgid "No change for update"
+msgstr ""
+
+msgid "Saved Successfully"
+msgstr ""
